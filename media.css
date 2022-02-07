@@ -1,0 +1,59 @@
+@media (max-width: 560px) {
+    .body p {
+        font-size: 14px;
+        padding: 5px;
+    }
+
+    .card {
+        width: 300px;
+        height: 185px;
+        border-radius: 10px;
+    }
+
+    .left img {
+        width: 80px;
+    }
+
+    .left h4 {
+        margin: 5px; 
+        font-size: 14px;
+        letter-spacing: 0.5px;
+    }
+
+    .right-content {
+        margin: 13px 0;
+    }
+
+    .right p {
+        font-size: 12px;
+    }
+
+    .right i {
+        width: 15px;
+        height: 15px;
+        font-size: 10px;
+        border: 1px solid #fff;
+        margin-right: 3px; 
+    }
+    
+    .person {
+        background-color: #1187ac;
+        padding: 3px 0 3px 20px;
+        margin: -5px 0 0 -5px;
+        padding-left: 20px;
+    }
+
+    .email {
+        margin: 5px 0;
+        padding-left: 10px;
+    }
+
+    .phone {
+        padding-left: 15px;
+    }
+
+    .adress {
+        padding-left: 5px;
+    } 
+
+}
